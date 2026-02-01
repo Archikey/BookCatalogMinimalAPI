@@ -41,7 +41,7 @@
 
 1. **Клонировать репозиторий**  
 ```bash
-   git clone https://github.com/Neroimor/BookCatalogMinimalAPI.git
+   git clone https://github.com/Archikey/BookCatalogMinimalAPI.git
    cd BookCatalogMinimalAPI
    git checkout development
 ```
